@@ -12,6 +12,7 @@
 | [0014-longest-common-prefix](https://github.com/Shlok2814/Code/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Shlok2814/Code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok2814/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0560-subarray-sum-equals-k](https://github.com/Shlok2814/Code/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shlok2814/Code/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Shlok2814/Code/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Shlok2814/Code/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
