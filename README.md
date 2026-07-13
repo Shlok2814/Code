@@ -19,6 +19,7 @@
 | [0088-merge-sorted-array](https://github.com/Shlok2814/Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok2814/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shlok2814/Code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shlok2814/Code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shlok2814/Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shlok2814/Code/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shlok2814/Code/tree/master/0560-subarray-sum-equals-k) |
@@ -57,11 +58,13 @@
 | [0075-sort-colors](https://github.com/Shlok2814/Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shlok2814/Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shlok2814/Code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shlok2814/Code/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2814/Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shlok2814/Code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shlok2814/Code/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Shlok2814/Code/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2814/Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Shlok2814/Code/tree/master/1512-number-of-good-pairs) |
