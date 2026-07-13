@@ -15,6 +15,7 @@
 | [0014-longest-common-prefix](https://github.com/Shlok2814/Code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok2814/Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shlok2814/Code/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Shlok2814/Code/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Shlok2814/Code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shlok2814/Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shlok2814/Code/tree/master/0088-merge-sorted-array) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok2814/Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shlok2814/Code/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Shlok2814/Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Shlok2814/Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shlok2814/Code/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shlok2814/Code/tree/master/0283-move-zeroes) |
