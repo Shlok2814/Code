@@ -35,6 +35,7 @@
 | [1672-richest-customer-wealth](https://github.com/Shlok2814/Code/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Shlok2814/Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shlok2814/Code/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Shlok2814/Code/tree/master/1991-find-the-middle-index-in-array) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shlok2814/Code/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Shlok2814/Code/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Shlok2814/Code/tree/master/1991-find-the-middle-index-in-array) |
 ## Simulation
 |  |
 | ------- |
