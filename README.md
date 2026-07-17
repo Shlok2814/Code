@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shlok2814/Code/tree/master/0014-longest-common-prefix) |
+| [0771-jewels-and-stones](https://github.com/Shlok2814/Code/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Shlok2814/Code/tree/master/1108-defanging-an-ip-address) |
 ## Trie
 |  |
@@ -78,6 +79,7 @@
 | [0217-contains-duplicate](https://github.com/Shlok2814/Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shlok2814/Code/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shlok2814/Code/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/Shlok2814/Code/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2814/Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Shlok2814/Code/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
