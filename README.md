@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/Shlok2814/Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shlok2814/Code/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shlok2814/Code/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/Shlok2814/Code/tree/master/0875-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2814/Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2814/Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Shlok2814/Code/tree/master/1470-shuffle-the-array) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shlok2814/Code/tree/master/0268-missing-number) |
+| [0875-koko-eating-bananas](https://github.com/Shlok2814/Code/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
