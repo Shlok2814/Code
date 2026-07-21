@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shlok2814/Code/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Shlok2814/Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shlok2814/Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Shlok2814/Code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shlok2814/Code/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -69,6 +70,7 @@
 | [0031-next-permutation](https://github.com/Shlok2814/Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Shlok2814/Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shlok2814/Code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Shlok2814/Code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Shlok2814/Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shlok2814/Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Shlok2814/Code/tree/master/0541-reverse-string-ii) |
