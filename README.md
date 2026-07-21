@@ -44,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2814/Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shlok2814/Code/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Shlok2814/Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shlok2814/Code/tree/master/0344-reverse-string) |
@@ -92,6 +93,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2814/Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Shlok2814/Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shlok2814/Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shlok2814/Code/tree/master/0268-missing-number) |
@@ -149,5 +151,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2814/Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shlok2814/Code/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
