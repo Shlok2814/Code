@@ -46,6 +46,7 @@
 | [0014-longest-common-prefix](https://github.com/Shlok2814/Code/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Shlok2814/Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shlok2814/Code/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Shlok2814/Code/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Shlok2814/Code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shlok2814/Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Shlok2814/Code/tree/master/0709-to-lower-case) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shlok2814/Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok2814/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Shlok2814/Code/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0125-valid-palindrome](https://github.com/Shlok2814/Code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Shlok2814/Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shlok2814/Code/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Shlok2814/Code/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Shlok2814/Code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shlok2814/Code/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Sorting
