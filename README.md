@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shlok2814/Code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shlok2814/Code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok2814/Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shlok2814/Code/tree/master/0027-remove-element) |
@@ -71,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shlok2814/Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok2814/Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shlok2814/Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shlok2814/Code/tree/master/0031-next-permutation) |
@@ -156,4 +158,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2814/Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shlok2814/Code/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shlok2814/Code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
