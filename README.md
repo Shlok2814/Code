@@ -35,6 +35,7 @@
 | [0724-find-pivot-index](https://github.com/Shlok2814/Code/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Shlok2814/Code/tree/master/0875-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2814/Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shlok2814/Code/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2814/Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Shlok2814/Code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shlok2814/Code/tree/master/1480-running-sum-of-1d-array) |
@@ -70,6 +71,7 @@
 | [0053-maximum-subarray](https://github.com/Shlok2814/Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok2814/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Shlok2814/Code/tree/master/0392-is-subsequence) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shlok2814/Code/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,4 +166,5 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shlok2814/Code/tree/master/0011-container-with-most-water) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shlok2814/Code/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 <!---LeetCode Topics End-->
