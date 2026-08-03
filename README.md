@@ -22,6 +22,7 @@
 | [0027-remove-element](https://github.com/Shlok2814/Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shlok2814/Code/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shlok2814/Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shlok2814/Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Shlok2814/Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shlok2814/Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shlok2814/Code/tree/master/0066-plus-one) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shlok2814/Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shlok2814/Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shlok2814/Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shlok2814/Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shlok2814/Code/tree/master/0349-intersection-of-two-arrays) |
