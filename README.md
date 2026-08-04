@@ -57,6 +57,7 @@
 | [1920-build-array-from-permutation](https://github.com/Shlok2814/Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shlok2814/Code/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shlok2814/Code/tree/master/1991-find-the-middle-index-in-array) |
+| [3731-find-missing-elements](https://github.com/Shlok2814/Code/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok2814/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shlok2814/Code/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2814/Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3731-find-missing-elements](https://github.com/Shlok2814/Code/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0771-jewels-and-stones](https://github.com/Shlok2814/Code/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2814/Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Shlok2814/Code/tree/master/1512-number-of-good-pairs) |
+| [3731-find-missing-elements](https://github.com/Shlok2814/Code/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
