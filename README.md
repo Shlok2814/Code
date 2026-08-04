@@ -25,6 +25,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shlok2814/Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Shlok2814/Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shlok2814/Code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Shlok2814/Code/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Shlok2814/Code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shlok2814/Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shlok2814/Code/tree/master/0088-merge-sorted-array) |
@@ -141,6 +142,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shlok2814/Code/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Shlok2814/Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shlok2814/Code/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shlok2814/Code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shlok2814/Code/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Shlok2814/Code/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
