@@ -1,24 +1,27 @@
-public class Solution {
+class Solution {
     public int minTaps(int n, int[] ranges) {
-        int[] arr = new int[n + 1];
-        Arrays.fill(arr, 0);
-        
-        for(int i = 0; i < ranges.length; i++) {
-            if(ranges[i] == 0) continue;
+        int[] maxReach = new int[n + 1];
+        for (int i = 0; i <= n; i++) {
             int left = Math.max(0, i - ranges[i]);
-            arr[left] = Math.max(arr[left], i + ranges[i]);
+            int right = Math.min(n, i + ranges[i]);
+            maxReach[left] = Math.max(maxReach[left], right);
         }
-        
-        int end = 0, far_can_reach = 0, cnt = 0;
-        for(int i = 0; i <= n; i++) {
-            if(i > end) {
-                if(far_can_reach <= end) return -1;
-                end = far_can_reach;
-                cnt++;
+        int taps = 0;
+        int currentEnd = 0;
+        int farthest = 0;
+        for (int i = 0; i < n; i++) {
+            farthest = Math.max(farthest, maxReach[i]);
+            if (i == currentEnd) {
+                if (farthest == currentEnd) {
+                    return -1;
+                }
+                taps++;
+                currentEnd = farthest;
+                if (currentEnd >= n) {
+                    return taps;
+                }
             }
-            far_can_reach = Math.max(far_can_reach, arr[i]);
         }
-        
-        return cnt + (end < n ? 1 : 0);
+        return -1;
     }
 }
