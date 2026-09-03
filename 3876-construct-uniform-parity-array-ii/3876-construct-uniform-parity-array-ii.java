@@ -1,11 +1,18 @@
 class Solution {
-    public boolean uniformArray(int[] a) {
-        int mn = Integer.MAX_VALUE;
-        int oddCnt = 0;
-        for (int x : a) {
-            mn = Math.min(mn, x);
-            if (x % 2 == 1) oddCnt++;
+    public boolean uniformArray(int[] nums) {
+        int smallestOdd = Integer.MAX_VALUE;
+
+        for (int num : nums) {
+            if (num % 2 == 1)
+                smallestOdd = Math.min(smallestOdd, num);
         }
-        return mn % 2 != 0 || oddCnt == 0;
+        if (smallestOdd == Integer.MAX_VALUE)
+            return true;
+        for (int num : nums) {
+            if (num % 2 == 0 && num <= smallestOdd)
+                return false;
+        }
+
+        return true;
     }
 }
