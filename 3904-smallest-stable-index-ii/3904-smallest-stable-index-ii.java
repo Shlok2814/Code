@@ -1,14 +1,18 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-        int maxSoFar = -1;
-        int cand = 0, max = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-            maxSoFar = Math.max(maxSoFar, nums[i]);
-            if (i == cand) max = maxSoFar;
-            if (nums[i] < max - k)
-                cand = i + 1;
+        int n = nums.length;
+        int[] suffixMin = new int[n];
+        suffixMin[n - 1] = nums[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            suffixMin[i] = Math.min(nums[i], suffixMin[i + 1]);
         }
-        return cand < nums.length ? cand : -1;
+        int prefixMax = nums[0];
+        for (int i = 0; i < n; i++) {
+            prefixMax = Math.max(prefixMax, nums[i]);
+            if (prefixMax - suffixMin[i] <= k) {
+                return i;
+            }
+        }
+        return -1;
     }
 }
