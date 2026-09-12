@@ -5,14 +5,11 @@ class Solution {
             totalGas += gas[i];
             totalCost += cost[i];
         }
-
         if (totalGas < totalCost) {
             return -1;
         }
-
         int currentGas = 0;
         int start = 0;
-
         for (int i = 0; i < gas.length; i++) {
             currentGas += gas[i] - cost[i];
             if (currentGas < 0) {
@@ -20,7 +17,6 @@ class Solution {
                 start = i + 1;
             }
         }
-
         return start;        
     }
 }
